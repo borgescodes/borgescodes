@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a programming student focused on front-end, web development, and mobile development. I have participated in coding marathons and have knowledge of C++, JavaScript, HTML, and CSS. Always eager to learn and take on new challenges!!</p>
+<p align="left">I’m a programming student focused on front-end, web development, and mobile development. I have participated in coding marathons and have knowledge of C++, JavaScript, HTML, and CSS. Always eager to learn and take on new challenges!</p>
 
 ###
 
