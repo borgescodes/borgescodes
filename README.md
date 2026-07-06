@@ -9,8 +9,6 @@ I build solutions that connect business rules, structured data, intuitive interf
 Currently working with SAP S/4HANA processes, React applications, TypeScript, Supabase, PostgreSQL, APIs, and AI-assisted software development.
 </p>
 
----
-
 <h2 align="left">Core Stack</h2>
 
 <div align="left">
