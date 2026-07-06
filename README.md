@@ -1,5 +1,3 @@
-<h1 align="left">Pedro Borges</h1>
-
 <h3 align="left">Technology Analyst | SAP S/4HANA, Business Systems & Automation</h3>
 
 <p align="left">
@@ -10,17 +8,6 @@ I build solutions that connect business rules, structured data, intuitive interf
 <p align="left">
 Currently working with SAP S/4HANA processes, React applications, TypeScript, Supabase, PostgreSQL, APIs, and AI-assisted software development.
 </p>
-
----
-
-<h2 align="left">Current Focus</h2>
-
-- Enterprise systems and business process automation
-- SAP S/4HANA integration and master data governance
-- Full-stack web applications
-- Workflow, approval, and access-control systems
-- Database modeling and PostgreSQL functions
-- AI-assisted development and software delivery
 
 ---
 
@@ -51,6 +38,17 @@ Currently working with SAP S/4HANA processes, React applications, TypeScript, Su
 </div>
 
 <br />
+
+---
+
+<h2 align="left">Current Focus</h2>
+
+- Enterprise systems and business process automation
+- SAP S/4HANA integration and master data governance
+- Full-stack web applications
+- Workflow, approval, and access-control systems
+- Database modeling and PostgreSQL functions
+- AI-assisted development and software delivery
 
 <p align="left">
   <strong>Enterprise:</strong> SAP S/4HANA, master data, process governance, system integration
