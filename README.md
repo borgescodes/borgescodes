@@ -64,34 +64,6 @@ Currently working with SAP S/4HANA processes, React applications, TypeScript, Su
 
 ---
 
-<h2 align="left">GitHub Stats</h2>
-
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=borgescodes&show_icons=true&theme=github_dark&hide_border=true"
-    height="160"
-    alt="Pedro Borges GitHub statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=borgescodes&locale=en&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    height="160"
-    alt="Most used languages"
-  />
-</div>
-
-<br />
-
-<div align="left">
-  <img
-    src="https://streak-stats.demolab.com?user=borgescodes&locale=en&mode=daily&theme=github-dark-blue&hide_border=true"
-    height="160"
-    alt="GitHub contribution streak"
-  />
-</div>
-
----
-
 <h2 align="left">Connect</h2>
 
 <div align="left">
